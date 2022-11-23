@@ -1,13 +1,19 @@
-# C-basics
-#### Contents
+# C
+basics of C programming language
+## Prerequisite
 
-0. intro
-1. variables
-2. data types
-3. printf
-4. working with numbers 
-5. comments 
-6. constants
-7. getting user input 
+• Laptop or desktop
 
-## more updates coming
+• Text editor and C compiler(eg, codeblocks)
+
+## Authors
+
+- [@Alfredo Kalu Orie](https://www.github.com/xclusivfred)
+
+## Acknowledgements
+
+- [Freecodecamp.org](https://freecodecamp.org/)
+
+## Content
+
+• 01-hello_world.c
