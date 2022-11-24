@@ -17,3 +17,5 @@ basics of C programming language
 ## Content
 
 • 01-hello_world.c
+
+• 02-drawing_a_shape.c
