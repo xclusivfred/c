@@ -19,3 +19,5 @@ basics of C programming language
 • 01-hello_world.c
 
 • 02-drawing_a_shape.c
+
+• 03-variables.c
