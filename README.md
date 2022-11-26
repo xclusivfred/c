@@ -21,3 +21,5 @@ basics of C programming language
 • 02-drawing_a_shape.c
 
 • 03-variables.c
+
+• 04-data_types.c
