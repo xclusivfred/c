@@ -25,3 +25,5 @@ basics of C programming language
 • 04-data_types.c
 
 • 05-printf.c
+
+• 06-working_with_numbers.c
