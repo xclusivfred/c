@@ -27,3 +27,5 @@ basics of C programming language
 • 05-printf.c
 
 • 06-working_with_numbers.c
+
+• 07-comments.c
