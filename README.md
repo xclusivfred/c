@@ -29,3 +29,5 @@ basics of C programming language
 • 06-working_with_numbers.c
 
 • 07-comments.c
+
+• 08-constants.c
